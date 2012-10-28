@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 猜数字游戏
 ===========
 
@@ -16,3 +17,7 @@
 ###参考
 * http://zh.wikipedia.org/zh/%E7%8C%9C%E6%95%B0%E5%AD%97
 * http://en.wikipedia.org/wiki/Bulls_and_cows
+=======
+GuessNumber
+===========
+>>>>>>> 1455051b49c8955f48e35ae8c0b26296730e57c2
